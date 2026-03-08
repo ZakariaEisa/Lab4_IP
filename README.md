@@ -1,1 +1,1 @@
-A simple To do list
+A simple To do list App
